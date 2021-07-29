@@ -1,4 +1,5 @@
 # Personal_Portfolio
-> Template Name: Resume Website Template
+
+> Template Name: Portfolio and Resume Website
 > Author Name: Zawad Bin Zahed
-> Author Website: 
+> Author Website: https://zawad-portfolio.netlify.app/
